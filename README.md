@@ -6,10 +6,10 @@ Im currently working on a Website for my Personal Portfolio.
 I'm currently learning <strong>Python</strong>, <strong>Types of encryption</strong> and <strong>Develop Software using agile Methods</strong>.
 
 ## My Languages:
-- HTML
-- CSS
-- JavaScript
-- Python
+- HTML <header> </header>
+- CSS 
+- JavaScript 
+- Python 🐍
 - C#
 
 ## My Hobbys are:
