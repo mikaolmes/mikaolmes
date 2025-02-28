@@ -1,21 +1,29 @@
 ## Hi there 👋
 Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden.
 
-Im currently working on a Website for my Personal Portfolio.
+# Im currently working on a Website for my Personal Portfolio.
 
-My Languages:
+# I'm currently learning <strong>Python</strong>, Types of encryption and Develop Software using agile Methods.
+
+## My Languages:
 - HTML
 - CSS
 - JavaScript
 - Python
 - C#
 
-My Hobbys are:
+## My Hobbys are:
 - Sports
 - Programming
 
-How to reach me:
+## How to reach me:
 https://www.linkedin.com/in/mika-olmes-2227b1341/
+
+## My favorites Quotes:
+Some want it to happen, some wish it would happen, others make it happen - Michael Jordan
+U miss 100% of the shots u never take - Michael Jordan
+
+
 <!--
 **ZTCKamikaze/ZTCKamikaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
