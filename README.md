@@ -3,7 +3,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 
 Im currently working on a Website for my Personal Portfolio.
 
-I'm currently learning <strong>Python</strong>, Types of encryption and Develop Software using agile Methods.
+I'm currently learning <strong>Python</strong>, <strong>Types of encryption</strong> and <strong>Develop Software using agile Methods</strong>.
 
 ## My Languages:
 - HTML
@@ -20,7 +20,7 @@ I'm currently learning <strong>Python</strong>, Types of encryption and Develop 
 https://www.linkedin.com/in/mika-olmes-2227b1341/
 
 ## My favorites Quotes:
-Some want it to happen, some wish it would happen, others make it happen - Michael Jordan
+Some want it to happen, some wish it would happen, others make it happen - Michael Jordan <br>
 U miss 100% of the shots u never take - Michael Jordan
 
 
