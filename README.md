@@ -13,8 +13,8 @@ I'm currently learning <strong>Python</strong>, <strong>Types of encryption</str
 - C#
 
 ## My Hobbys are:
-- Sports
-- Programming
+- Sports 👟
+- Programming </>
 
 ## How to reach me:
 https://www.linkedin.com/in/mika-olmes-2227b1341/
