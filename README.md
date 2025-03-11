@@ -14,6 +14,7 @@ I'm currently learning <strong>Python</strong>, <strong>Types of encryption</str
 
  ## 🛠️ Skills
  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 
 ## My Hobbys are:
