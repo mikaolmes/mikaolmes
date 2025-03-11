@@ -18,6 +18,7 @@ I'm currently learning <strong>Python</strong>, <strong>Types of encryption</str
  [![My Skills](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
 ## My Hobbys are:
