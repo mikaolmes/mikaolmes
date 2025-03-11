@@ -12,6 +12,10 @@ I'm currently learning <strong>Python</strong>, <strong>Types of encryption</str
 - Python 🐍
 - C#
 
+ ## 🛠️ Skills
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 ## My Hobbys are:
 - Sports 👟
 - Programming </>
