@@ -14,7 +14,7 @@ I'm currently learning <strong>Python</strong>, <strong>Types of encryption</str
 
  ## 🛠️ Skills
  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
