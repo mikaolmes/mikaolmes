@@ -34,6 +34,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 ## My Hobbys are:
 - Sports 👟
 - Programming </>
+- Driving 🏍️
 
 ## How to reach me:
 https://www.linkedin.com/in/mika-olmes-2227b1341/
