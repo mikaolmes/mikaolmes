@@ -22,6 +22,7 @@ I'm currently learning <strong>Python</strong>, <strong>Types of encryption</str
  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaolmes&show_icons=true&theme=transparent)
 
 ## My Hobbys are:
 - Sports 👟
