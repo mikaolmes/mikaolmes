@@ -1,9 +1,15 @@
 ## Hi there 👋
 Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden.
 
-I'm currently working on a Website for my Personal Portfolio. <br>
-I'm also working on a Website for a Task Manager with ASP.NET. <br>
-I'm currently learning <strong>Python</strong>, <strong>Types of encryption</strong> and <strong>Develop Software using agile Methods</strong>.
+
+## What am I working on?
+- Personal Portfolio Website https://mikaolmes.github.io/ <br>
+- Task Manager with ASP.Net <br>
+
+## What am I learning right now?
+- Python
+- Types of encryption
+- Develop Software using agile Methods
 
 ## My Languages:
 - HTML 
