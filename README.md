@@ -6,6 +6,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 - Personal Portfolio Website https://mikaolmes.github.io/ <br>
 - Task Manager with ASP.Net <br>
 
+
 ## What am I learning right now?
 - Python
 - Types of encryption
