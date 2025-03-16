@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello, I am @mikaolmes and im currently a student at BBB and Kantonsschule Baden.
+Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden.
 
 
 ## What am I working on?
