@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden.
+Hello, I am @mikaolmes and im currently a student at BBB and Kantonsschule Baden.
 
 
 ## What am I working on?
@@ -40,6 +40,8 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 
 ## How to reach me:
 https://www.linkedin.com/in/mika-olmes-2227b1341/
+
+https://github.com/mikaolmes
 
 ## My favorites Quotes:
 Some want it to happen, some wish it would happen, others make it happen - Michael Jordan <br>
