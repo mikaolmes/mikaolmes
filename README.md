@@ -31,6 +31,8 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaolmes&show_icons=true&theme=transparent)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=compact&theme=github_dark)
+
 ## My Hobbys are:
 - Sports 👟
 - Programming </>
