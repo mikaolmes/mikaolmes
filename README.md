@@ -8,7 +8,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 - [🛠️ Skills](#%EF%B8%8F-skills)
 - [My Hobbys](#my-hobbys)
 - [✉️ Contact me](#-contact-me)
-- [My favorites Quotes](#my-favorites-quotes)
+- [❝❞ My favorites Quotes](#-my-favorites-quotes)
 
 ## What am I working on?
 - Personal Portfolio Website https://mikaolmes.github.io/ <br>
@@ -51,7 +51,7 @@ https://www.linkedin.com/in/mika-olmes-2227b1341/
 
 https://github.com/mikaolmes
 
-## My favorites Quotes
+## ❝❞ My favorites Quotes
 Some want it to happen, some wish it would happen, others make it happen - Michael Jordan <br>
 U miss 100% of the shots u never take - Michael Jordan
 
