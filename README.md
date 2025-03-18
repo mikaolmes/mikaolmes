@@ -27,8 +27,11 @@ I'm **Mika Olmes**, a student at **BBB** and **Kantonsschule Baden**, passionate
 ---
 
 ## 🌍 Languages  
-🔹 HTML | CSS | JavaScript  
-🔹 Python 🐍 | C#  
+🔹 **HTML**  
+🔹 **CSS**  
+🔹 **JavaScript**  
+🔹 **Python** 🐍  
+🔹 **C#**  
 
 ---
 
