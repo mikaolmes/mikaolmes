@@ -2,7 +2,7 @@
 Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden.
 
 ## Table of Contents
-- [What am I working on?](#installation)
+- [What am I working on?](#what_am_i_working_on)
 - [What am I learning right now?](#usage)
 - [My Languages](#contributing)
 - [🛠️ Skills](#license)
