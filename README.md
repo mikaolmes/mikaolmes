@@ -7,7 +7,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 - [🌍 My Languages](#-my-languages)
 - [🛠️ Skills](#%EF%B8%8F-skills)
 - [My Hobbys](#my-hobbys)
-- [✉️ Contact me](#-contact-me)
+- [✉️ Contact me](#%EF%B8%8F-contact-me)
 - [❝❞ My favorites Quotes](#-my-favorites-quotes)
 
 ## What am I working on?
