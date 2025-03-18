@@ -2,10 +2,13 @@
 Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [What am I working on?](#installation)
+- [What am I learning right now?](#usage)
+- [My Languages](#contributing)
+- [🛠️ Skills](#license)
+- [My Hobbys](#My_Hobbys)
+- [Contact me](#Contact_me)
+- [My favorites Quotes](#My_favorites_Quotes)
 
 ## What am I working on?
 - Personal Portfolio Website https://mikaolmes.github.io/ <br>
@@ -17,7 +20,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 - Types of encryption
 - Develop Software using agile Methods
 
-## My Languages:
+## My Languages
 - HTML 
 - CSS 
 - JavaScript 
@@ -38,17 +41,17 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=compact&theme=github_dark)
 
-## My Hobbys are:
+## My Hobbys
 - Sports 👟
 - Programming </>
 - Driving 🏍️
 
-## How to reach me:
+## Contact me
 https://www.linkedin.com/in/mika-olmes-2227b1341/
 
 https://github.com/mikaolmes
 
-## My favorites Quotes:
+## My favorites Quotes
 Some want it to happen, some wish it would happen, others make it happen - Michael Jordan <br>
 U miss 100% of the shots u never take - Michael Jordan
 
