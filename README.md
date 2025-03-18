@@ -36,8 +36,16 @@ I'm **Mika Olmes**, a student at **BBB** and **Kantonsschule Baden**, passionate
 ---
 
 ## 🛠️ Skills  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=dotnet,python,docker,github,vscode,visualstudio,csharp)](https://skillicons.dev)  
+
+### 🔹 Programming Languages  
+[![My Skills](https://skillicons.dev/icons?i=python,csharp,js)](https://skillicons.dev)  
+
+### 🔹 Web Development  
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)  
+
+### 🔹 Frameworks & Tools  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,github,vscode,visualstudio)](https://skillicons.dev)  
+
 
 ---
 
