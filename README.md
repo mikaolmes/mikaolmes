@@ -1,6 +1,8 @@
 ## Hi there 👋
 Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden.
 
+## Table of Contents
+- [What am I working on?] What am I working on?
 
 ## What am I working on?
 - Personal Portfolio Website https://mikaolmes.github.io/ <br>
