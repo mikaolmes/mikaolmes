@@ -20,7 +20,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 - Types of encryption
 - Develop Software using agile Methods
 
-## My Languages
+## 🌍 My Languages
 - HTML 
 - CSS 
 - JavaScript 
