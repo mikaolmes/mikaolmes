@@ -1,74 +1,64 @@
-## Hi there 👋
-Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden.
+# Hi there 👋  
+I'm **Mika Olmes**, a student at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.  
 
-## Table of Contents
-- [What am I working on?](#what-am-i-working-on)
-- [🎓 What am I learning right now?](#-what-am-i-learning-right-now)
-- [🌍 My Languages](#-my-languages)
-- [🛠️ Skills](#%EF%B8%8F-skills)
-- [📊 Stats](#-stats)
-- [My Hobbys](#my-hobbys)
-- [✉️ Contact me](#%EF%B8%8F-contact-me)
-- [❝❞ My favorites Quotes](#-my-favorites-quotes)
+## 📌 Table of Contents  
+- [🚀 What I'm working on](#-what-im-working-on)  
+- [🎓 What I'm learning](#-what-im-learning)  
+- [🌍 Languages](#-languages)  
+- [🛠️ Skills](#-skills)  
+- [📊 GitHub Stats](#-github-stats)  
+- [⚡ Hobbies](#-hobbies)  
+- [📬 Contact](#-contact)  
+- [💬 Favorite Quotes](#-favorite-quotes)  
 
-## What am I working on?
-- Personal Portfolio Website https://mikaolmes.github.io/ <br>
-- Task Manager with ASP.Net <br>
+---
 
+## 🚀 What I'm working on  
+🔹 [Personal Portfolio Website](https://mikaolmes.github.io/)  
+🔹 Task Manager with **ASP.NET**  
 
-## 🎓 What am I learning right now?
-- Python
-- Types of encryption
-- Develop Software using agile Methods
+---
 
-## 🌍 My Languages
-- HTML 
-- CSS 
-- JavaScript 
-- Python 🐍
-- C#
+## 🎓 What I'm learning  
+📌 **Python** 🐍  
+📌 **Encryption techniques** 🔐  
+📌 **Agile software development** ⚡  
 
- ## 🛠️ Skills
- [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=c#)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+---
 
-## 📊 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaolmes&show_icons=true&theme=transparent)
+## 🌍 Languages  
+🔹 HTML | CSS | JavaScript  
+🔹 Python 🐍 | C#  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=compact&theme=github_dark)
+---
 
-## My Hobbys
-- Sports 👟
-- Programming </>
-- Driving 🏍️
+## 🛠️ Skills  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,csharp,python,docker,github,vscode,visualstudio)](https://skillicons.dev)  
 
-## ✉️ Contact me
-https://www.linkedin.com/in/mika-olmes-2227b1341/
+---
 
-https://github.com/mikaolmes
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaolmes&show_icons=true&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=compact&theme=github_dark)  
 
-## ❝❞ My favorites Quotes
-Some want it to happen, some wish it would happen, others make it happen - Michael Jordan <br>
-U miss 100% of the shots u never take - Michael Jordan
+---
 
+## ⚡ Hobbies  
+🏍️ **Motorcycling**  
+👟 **Sports & Fitness**  
+💻 **Programming & Software Development**  
 
-<!--
-**ZTCKamikaze/ZTCKamikaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📬 Contact  
+🔹 [LinkedIn](https://www.linkedin.com/in/mika-olmes-2227b1341/)  
+🔹 [GitHub](https://github.com/mikaolmes)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💬 Favorite Quotes  
+> "Some want it to happen, some wish it would happen, others make it happen." – **Michael Jordan**  
+> "You miss 100% of the shots you never take." – **Michael Jordan**  
+
+---
