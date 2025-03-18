@@ -6,6 +6,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
 - [🎓 What am I learning right now?](#-what-am-i-learning-right-now)
 - [🌍 My Languages](#-my-languages)
 - [🛠️ Skills](#%EF%B8%8F-skills)
+- [📊 Stats](#-stats)
 - [My Hobbys](#my-hobbys)
 - [✉️ Contact me](#%EF%B8%8F-contact-me)
 - [❝❞ My favorites Quotes](#-my-favorites-quotes)
@@ -37,6 +38,7 @@ Hello, I am Mika Olmes and im currently a student at BBB and Kantonsschule Baden
  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
+## 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaolmes&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=compact&theme=github_dark)
