@@ -37,7 +37,7 @@ I'm **Mika Olmes**, a student at **BBB** and **Kantonsschule Baden**, passionate
 [![My Skills](https://skillicons.dev/icons?i=dotnet,csharppython,docker,github,vscode,visualstudio)](https://skillicons.dev)  
 
 ✅ **C# Fix:** Falls das `csharp`-Symbol nicht korrekt angezeigt wird, kannst du es mit folgendem Trick umgehen:
-```html
+
 <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="40">
 ---
 
