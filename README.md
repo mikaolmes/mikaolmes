@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm **Mika Olmes**, a student at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.  
+I'm **Mika Olmes**, and currently studying Informatics at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.  
 
 ## 📌 Table of Contents  
 - [🚀 What I'm working on](#-what-im-working-on)  
