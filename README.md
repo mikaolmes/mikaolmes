@@ -20,9 +20,9 @@ I'm **Mika Olmes**, a student at **BBB** and **Kantonsschule Baden**, passionate
 ---
 
 ## 🎓 What I'm learning  
-📌 **Python** 🐍  
-📌 **Encryption techniques** 🔐  
-📌 **Agile software development** ⚡  
+🔹 **Python** 🐍  
+🔹 **Encryption techniques** 🔐  
+🔹 **Agile software development** ⚡  
 
 ---
 
