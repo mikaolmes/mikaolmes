@@ -1,6 +1,3 @@
-<img src="https://64.media.tumblr.com/e34617ef35020777c5dd1f70bed19fbb/tumblr_ohj9x3vfoC1veydt5o1_500.gifv" height="220px" alt="Header" data-canonical-src="https://i.pinimg.com/originals/78/08/ef/7808ef4266899433cbdeb4a113f12974.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-
 # Mika Olmes (@mikaolmes)  
 I'm **Mika Olmes**, and currently studying Informatics at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.  
 
