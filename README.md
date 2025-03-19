@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/82515fb3-0ce5-4357-a088-f3cd916b928e)
+
+
 # Mika Olmes (@mikaolmes)  
 I'm **Mika Olmes**, and currently studying Informatics at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.  
 
