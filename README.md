@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/82515fb3-0ce5-4357-a088-f3cd916b928e)
+<img src="https://github.com/user-attachments/assets/82515fb3-0ce5-4357-a088-f3cd916b928e heigh="200px" alt="Header"</>
 
 
 # Mika Olmes (@mikaolmes)  
