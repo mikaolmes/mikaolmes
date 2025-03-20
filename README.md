@@ -51,7 +51,8 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaolmes&show_icons=true&theme=transparent)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=compact&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=compact&theme=github_dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
