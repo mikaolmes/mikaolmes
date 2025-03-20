@@ -52,7 +52,6 @@
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaolmes&show_icons=true&theme=transparent)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaolmes&layout=compact&theme=github_dark) 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikaolmes&layout=compact&theme=github_dark)](https://github.com/mikaolmes/github-readme-stats)
 ---
 
 ## ⚡ Hobbies  
