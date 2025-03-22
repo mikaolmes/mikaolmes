@@ -75,9 +75,9 @@ A web application for managing tasks and projects using C# and ASP.NET Core.
 ---
 
 ## ⚡ Hobbies  
-💻 **Programming & Software Development** - Building side projects and exploring new technologies  
-🏍️ **Motorcycling** - Exploring new routes and weekend rides  
-👟 **Sports & Fitness** - Regular workouts and team sports  
+💻 **Programming & Software Development**
+🏍️ **Motorcycling**
+👟 **Sports & Fitness**
 
 ---
 
