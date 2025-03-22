@@ -55,9 +55,9 @@
 ---
 
 ## ⚡ Hobbies  
+💻 **Programming & Software Development**  
 🏍️ **Motorcycling**  
 👟 **Sports & Fitness**  
-💻 **Programming & Software Development**  
 
 ---
 
