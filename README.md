@@ -1,6 +1,6 @@
 # Hello, I'm Mika Olmes! 👋
 
-<img src="https://yourimageurl.com/banner.png" alt="Banner Image" width="100%">
+<img src="[https://yourimageurl.com/banner.png](https://blog.randombits.host/content/images/2022/07/Screenshot-from-2022-07-17-10-41-31.png)" alt="Banner Image" width="100%">
 
 I'm an Informatics student at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.
 
