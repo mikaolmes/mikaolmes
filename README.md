@@ -1,6 +1,6 @@
 # Hello, I'm Mika Olmes! 👋
 
-<img src="https://linktopicture.png" alt="Banner Image" width="100%">
+<img src="https://linktopicture.png" alt="Banner Image" width="100%"> <!-- Find a picture that fits in here-->
 
 I'm an Informatics student at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.
 
