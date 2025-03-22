@@ -65,6 +65,8 @@ A web application for managing tasks and projects using C# and ASP.NET Core.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mikaolmes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaolmes&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
