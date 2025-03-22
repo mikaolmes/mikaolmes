@@ -1,6 +1,8 @@
 # Mika Olmes (@mikaolmes) 
 👋 I'm **Mika Olmes**, and currently studying Informatics at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.  
 
+---
+
 ## 📌 Table of Contents  
 - [🚀 What I'm working on](#-what-im-working-on)  
 - [🎓 What I'm learning](#-what-im-learning)  
