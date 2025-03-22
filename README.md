@@ -84,7 +84,6 @@ A web application for managing tasks and projects using C# and ASP.NET Core.
 ## 💬 Favorite Quotes  
 > "Some want it to happen, some wish it would happen, others make it happen." – **Michael Jordan**  
 > "You miss 100% of the shots you never take." – **Michael Jordan**  
-> "The best way to predict the future is to invent it." – **Alan Kay**
 
 ---
 
