@@ -4,7 +4,7 @@
 
 I'm an Informatics student at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mika-olmes-2227b1341/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linked&logoColor=white)](https://www.linkedin.com/in/mika-olmes-2227b1341/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikaolmes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mikaolmes.github.io/)
 
