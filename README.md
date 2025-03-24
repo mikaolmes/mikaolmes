@@ -1,6 +1,7 @@
 # Hello, I'm Mika Olmes! 👋
 
-<img src="https://linktopicture.png" alt="Banner Image" width="100%"> <!-- Find a picture that fits in here-->
+<img src="https://![WhatsApp Bild 2025-03-24 um 22 11 54_d861b688](https://github.com/user-attachments/assets/b471d1b9-63a3-4e5e-9946-c38bec78fd05)
+" alt="Banner Image" width="100%"> <!-- Find a picture that fits in here-->
 
 I'm an Informatics student at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.
 
