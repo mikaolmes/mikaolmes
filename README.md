@@ -77,8 +77,8 @@ A web application for managing tasks and projects using C# and ASP.NET Core.
 ---
 
 ## ⚡ Hobbies  
-💻 **Programming & Software Development**
-🏍️ **Motorcycling**
+💻 **Programming & Software Development** <br>
+🏍️ **Motorcycling** <br>
 👟 **Sports & Fitness**
 
 ---
