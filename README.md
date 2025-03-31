@@ -2,7 +2,7 @@
 
 <!--<img src="https://linktothephoto)
 " alt="Banner Image" width="100%"> <!-- Find a picture that fits in here-->
-
+ 
 I'm an Informatics student at **BBB** and **Kantonsschule Baden**, passionate about software development and technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mika-olmes-2227b1341/)
