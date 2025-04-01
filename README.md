@@ -22,7 +22,7 @@ I'm an Informatics student at **BBB** and **Kantonsschule Baden**, passionate ab
 ---
 
 ## 🚀 Projects
- 
+
 ### 🔹 [Personal Portfolio Website](https://mikaolmes.github.io/)
 A showcase of my projects and skills built with HTML, CSS, and JavaScript.
 
