@@ -93,3 +93,4 @@ A web application for managing tasks and projects using C# and ASP.NET Core.
 ![Profile Views](https://komarev.com/ghpvc/?username=mikaolmes&color=brightgreen)
 
 <!-- This README is always evolving as I learn and grow! -->
+--- 
