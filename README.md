@@ -1,7 +1,6 @@
 # Hello, I'm Mika Olmes! 👋
 
 ---
-
 <!--<img src="https://linktothephoto)
 " alt="Banner Image" width="100%"> <!-- Find a picture that fits in here-->
  
