@@ -9,7 +9,7 @@ I'm an Informatics student at **BBB** and **Kantonsschule Baden**, passionate ab
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikaolmes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mikaolmes.github.io/)
 
----
+--- 
 
 ## 📌 Table of Contents  
 - [🚀 Projects](#-projects)  
