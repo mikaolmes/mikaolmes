@@ -12,7 +12,7 @@ I'm an Informatics student at **BBB** and **Kantonsschule Baden**, passionate ab
 ---
 
 ## 📌 Table of Contents  
-- [🚀 Projects](#-projects)  
+- [🚀 Projects](#-projects)
 - [🎓 Learning Journey](#-learning-journey)  
 - [🛠️ Skills & Technologies](#-skills--technologies)  
 - [📊 GitHub Stats](#-github-stats)  
